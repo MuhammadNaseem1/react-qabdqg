@@ -1,3 +1,1 @@
-# react-qabdqg
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-qabdqg)
+# react on vscode
